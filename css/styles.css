@@ -179,12 +179,29 @@ nav li {
   flex-direction: row;
   width: 30vw;
   justify-content: space-around;
-  padding: 20px 0;
+  padding: 20px 20px;
 }
 
 i {
   color: black;
   font-size: 4rem;
+}
+
+
+.fa-twitter:before {
+  padding: 0 20px;
+}
+
+.fa-linkedin-in:before {
+  padding: 0 20px;  
+}
+
+.fa-instagram:before {
+  padding: 0 20px;  
+}
+
+.fa-medium-m:before {
+  padding: 0 20px;  
 }
 
 .fa-medium-m:hover {
